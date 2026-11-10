@@ -7,7 +7,7 @@ h1 {
     text-align: center;
 }
 
-photo gallery {
+.photo-gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
