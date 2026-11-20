@@ -1,0 +1,33 @@
+body {
+    background-color: #FFF3E3;
+}
+
+h1 {
+    color: #FF7171;
+    text-align: center;
+}
+
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    margin: 20px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 80px 200px;  
+  background-color: dodgerblue;
+  padding: 5px;
+  gap: 5px;  
+}
+.container div {
+  background-color: #f1f1f1;
+  color:#000;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
